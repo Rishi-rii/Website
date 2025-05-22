@@ -92,11 +92,11 @@
       letter-spacing: 0%;
     }
     .curved-line{
-  width: 500px;position: relative;top:80px;
-  height: 50px;
-  border-top: 6px solid #4CBBA3; 
-  border-radius: 100%/100%;
-  background: transparent;
+     width: 500px;position: relative;top:80px;
+     height: 50px;
+     border-top: 6px solid #4CBBA3; 
+     border-radius: 100%/100%;
+     background: transparent;
     }
     .box2{
       width: 410;
@@ -141,23 +141,23 @@
       color: rgba(166, 166, 166, 1);
     }
     .feature{
-border-radius: 70px;
-display: flex;
-justify-content: space-between;
-align-items: center;
+      border-radius: 70px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
     }
     .feature1 h2{
       font-family: Inter;
-font-weight: 600;
-font-size: 50px;
-line-height: 100%;
-letter-spacing: 0%;
+      font-weight: 600;
+      font-size: 50px;
+      line-height: 100%;
+      letter-spacing: 0%;
     }
     .feature p{
       font-family: Inter;
-font-weight: 500;
-font-size: 18px;
-line-height: 20px;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 20px;
     }
     .feature button{
      width: 162;
@@ -166,8 +166,8 @@ line-height: 20px;
      background: #54BD95;
     }
     .features {
-      display: flex;
-      justify-content: space-evenly;
+     display: flex;
+     justify-content: space-evenly;
     }
 
     .features1 {
